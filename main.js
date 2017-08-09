@@ -1,2 +1,2 @@
 var number = 39
-var truth = "hello flatter world"
+var truth = "hello flat world"
